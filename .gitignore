@@ -2,8 +2,10 @@
 __pycache__/
 data/raw/*
 aqienv/
-data/
+data/*
 
+!data/raw/
 !data/raw/**
+
 data/processed/*
 !data/processed/.gitkeep
